@@ -1,6 +1,7 @@
 ## Hello! 👋
 - I'm a Japanese FOSS translator.
 - I love Fedora ❤️ btw
+- Avatar created by [Mobilizon Avatar Generator](https://www.peppercarrot.com/extras/html/2020_mobilizon-generator/index.php)
 
 [![Current DE](https://img.shields.io/badge/DE-KDE%20Plasma-54A3D8)](https://kde.org/)
 
