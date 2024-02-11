@@ -7,4 +7,6 @@
 
 ## PGP Key 🔐
 gnuey56@proton.me
-[`0EFF 497A 56B6 F9BF 3397 4DE2 CF86 7532 3745 85F5`](https://keyserver.ubuntu.com/pks/lookup?search=CF867532374585F5&fingerprint=on&op=index)
+
+- [`CF867532374585F5`](https://keyserver.ubuntu.com/pks/lookup?search=CF867532374585F5&fingerprint=on&op=index)
+- `DBED8A22501AC463` (email, ProtonMail)
