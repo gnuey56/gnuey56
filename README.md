@@ -9,4 +9,4 @@
 gnuey56@proton.me
 
 - [`CF867532374585F5`](https://keyserver.ubuntu.com/pks/lookup?search=CF867532374585F5&fingerprint=on&op=index)
-- `DBED8A22501AC463` (email, ProtonMail)
+- [`DBED8A22501AC463` (email, ProtonMail)](https://gist.githubusercontent.com/gnuey56/ea54ca217d3ef1005f4778775fee507d/raw/fb6517b471a822539f7f06797ef1582d46a426e4/gnuey56_mail-pubkey.txt)
